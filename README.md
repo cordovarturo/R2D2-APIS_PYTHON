@@ -8,3 +8,7 @@ CLIMA
 LUGARES CERCANOS
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a13206da-0214-4ba9-ae92-cb2b1f3711f6" />
 <img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/e62d38aa-7088-44b0-8bea-7bef591aa7f8" />
+
+REDDIT
+<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/3f39ef42-f805-4831-8c55-38fb5b7af30c" />
+<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/9d6b8588-01c7-4dd8-89ae-7bae80a4de48" />
