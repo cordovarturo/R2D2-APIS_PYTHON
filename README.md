@@ -33,3 +33,8 @@ BUSCADOR DE LIBROS
 DIVISAS
 <img width="900" height="894" alt="image" src="https://github.com/user-attachments/assets/e6d9a65c-891f-4732-97fb-b7f8dc967bb4" />
 <img width="948" height="992" alt="image" src="https://github.com/user-attachments/assets/3b59fa6d-21d9-410a-a080-6b2692045492" />
+
+PELICULAS
+<img width="1753" height="1046" alt="image" src="https://github.com/user-attachments/assets/417de035-c253-43db-aad8-49681368246e" />
+<img width="1722" height="990" alt="image" src="https://github.com/user-attachments/assets/adbef9a4-5859-473f-aaac-3979e4612182" />
+
