@@ -25,3 +25,7 @@ API REST con SQLite
 Chat en Tiempo Real con Firebase
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/84aeae20-b360-46a2-a4cb-49e46a5d4ee3" />
 <img width="1299" height="993" alt="image" src="https://github.com/user-attachments/assets/9e0d7e34-8b15-42cf-9a5c-7351ba663a97" />
+
+BUSCADOR DE LIBROS
+<img width="1864" height="831" alt="image" src="https://github.com/user-attachments/assets/643b0ead-1918-4924-a246-de206a2d2941" />
+<img width="1846" height="902" alt="image" src="https://github.com/user-attachments/assets/7583e592-9b17-420a-babf-c524ca635fb9" />
