@@ -118,8 +118,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 > Integración con el servicio de streaming para visualizar música y artistas.
 
 <div align="center">
- <img width="540" height="331" alt="image" src="https://github.com/user-attachments/assets/249a164a-1b12-4d74-88c6-1a9f04f2445e" />
-
+<img width="540" height="331" alt="image" src="https://github.com/user-attachments/assets/0c05deef-9bbf-45b0-8c2d-a578185a52c2" />
 </div>
 
 ---
