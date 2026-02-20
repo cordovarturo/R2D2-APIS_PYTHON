@@ -21,3 +21,4 @@ API REST con SQLite
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/8feaa45f-516d-4353-bb86-136ce78a752c" />
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c923bb27-1815-46e0-a34f-d8f07008c3ca" />
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/da2a3c2c-88a2-4190-9376-92a3d7bb71c6" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/fca2019b-005e-4d1d-a951-2570c6654657" />
