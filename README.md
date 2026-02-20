@@ -38,3 +38,4 @@ PELICULAS
 <img width="1753" height="1046" alt="image" src="https://github.com/user-attachments/assets/417de035-c253-43db-aad8-49681368246e" />
 <img width="1722" height="990" alt="image" src="https://github.com/user-attachments/assets/adbef9a4-5859-473f-aaac-3979e4612182" />
 
+<img width="1000" height="1020" alt="image" src="https://github.com/user-attachments/assets/567f7fda-5767-4d7b-bea5-501692c385c2" />
