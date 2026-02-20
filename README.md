@@ -22,3 +22,6 @@ API REST con SQLite
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c923bb27-1815-46e0-a34f-d8f07008c3ca" />
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/da2a3c2c-88a2-4190-9376-92a3d7bb71c6" />
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/fca2019b-005e-4d1d-a951-2570c6654657" />
+Chat en Tiempo Real con Firebase
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/84aeae20-b360-46a2-a4cb-49e46a5d4ee3" />
+<img width="1299" height="993" alt="image" src="https://github.com/user-attachments/assets/9e0d7e34-8b15-42cf-9a5c-7351ba663a97" />
