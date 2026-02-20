@@ -4,21 +4,21 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 📑 Tabla de Contenidos
-* [🌤️ Clima](#clima)
-* [📍 Lugares Cercanos](#lugares-cercanos)
-* [🤖 Reddit Reader](#reddit)
-* [📊 Dashboard de GitHub](#dashboard-de-github)
-* [🗄️ API REST con SQLite](#api-rest-con-sqlite)
-* [💬 Chat en Tiempo Real](#chat-en-tiempo-real)
-* [📚 Buscador de Libros](#buscador-de-libros)
-* [💱 Conversor de Divisas](#divisas)
-* [🎬 Películas](#películas)
-* [🎵 Spotify Integration](#spotify)
+##  Tabla de Contenidos
+* [ Clima](#clima)
+* [ Lugares Cercanos](#lugares-cercanos)
+* [ Reddit Reader](#reddit)
+* [ Dashboard de GitHub](#dashboard-de-github)
+* [ API REST con SQLite](#api-rest-con-sqlite)
+* [ Chat en Tiempo Real](#chat-en-tiempo-real)
+* [ Buscador de Libros](#buscador-de-libros)
+* [ Conversor de Divisas](#divisas)
+* [ Películas](#películas)
+* [ Spotify Integration](#spotify)
 
 ---
 
-## 🌤️ Clima
+##  Clima
 > Consulta el estado del tiempo actual y pronósticos utilizando APIs meteorológicas.
 
 <div align="center">
@@ -28,7 +28,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 📍 Lugares Cercanos
+##  Lugares Cercanos
 > Geolocalización para encontrar puntos de interés alrededor del usuario.
 
 <div align="center">
@@ -38,7 +38,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 🤖 Reddit
+##  Reddit
 > Visualización de feeds y posts populares consumiendo la API de Reddit.
 
 <div align="center">
@@ -48,7 +48,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 📊 Dashboard de GitHub
+##  Dashboard de GitHub
 > Análisis de repositorios y perfiles de usuario mediante la API oficial de GitHub.
 
 <div align="center">
@@ -58,7 +58,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 🗄️ API REST con SQLite
+##  API REST con SQLite
 > Implementación de operaciones CRUD (Create, Read, Update, Delete) con base de datos local.
 
 <div align="center">
@@ -70,7 +70,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 💬 Chat en Tiempo Real
+##  Chat en Tiempo Real
 > Mensajería instantánea utilizando **Firebase Realtime Database**.
 
 <div align="center">
@@ -80,7 +80,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 📚 Buscador de Libros
+##  Buscador de Libros
 > Exploración de títulos y autores conectando con la API de Google Books.
 
 <div align="center">
@@ -90,7 +90,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 💱 Divisas
+##  Divisas
 > Conversor de monedas con tasas de cambio actualizadas.
 
 <div align="center">
@@ -100,7 +100,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 🎬 Películas
+##  Películas
 > Catálogo de cine con detalles de lanzamientos y puntuaciones.
 
 <div align="center">
@@ -111,7 +111,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 🎵 Spotify
+##  Spotify
 > Integración con el servicio de streaming para visualizar música y artistas.
 
 <div align="center">
@@ -120,7 +120,7 @@ Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de apl
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 * **Lenguajes:** Java / Kotlin (o el que uses)
 * **APIs:** Google Maps, OpenWeather, Reddit API, GitHub API, Firebase.
 * **Base de Datos:** SQLite, Firebase Realtime Database.
