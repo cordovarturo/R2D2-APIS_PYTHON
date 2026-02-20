@@ -1,4 +1,4 @@
-# 🚀 Portafolio de Actividades: Integración de APIs
+Integración de APIs
 
 Bienvenido a mi repositorio de prácticas. Este proyecto reúne una serie de aplicaciones diseñadas para explorar el consumo de servicios externos, manejo de datos en tiempo real y persistencia local.
 
