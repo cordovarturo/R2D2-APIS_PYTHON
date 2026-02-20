@@ -12,3 +12,7 @@ LUGARES CERCANOS
 REDDIT
 <img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/3f39ef42-f805-4831-8c55-38fb5b7af30c" />
 <img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/9d6b8588-01c7-4dd8-89ae-7bae80a4de48" />
+
+DASHBOARD DE GITHUB
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/b37bada5-567e-4f11-81a0-9ba02c3df53e" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f2b19484-6890-4328-a922-9cac0e6fc3d7" />
